@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+
+# LangChain / RAG
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-core
+chromadb
+
+# PDF loader dependency
+pypdf
