@@ -11,3 +11,6 @@ chromadb
 
 # PDF loader dependency
 pypdf
+
+# Streamlit Cloud fix: avoid protobuf breaking opentelemetry/chromadb imports
+protobuf==4.25.3
