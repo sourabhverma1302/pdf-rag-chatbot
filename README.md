@@ -3,7 +3,7 @@ A Retrieval-Augmented Generation (RAG) chatbot built with Streamlit, OpenAI, and
 
 README Project Description
 
-DocMind is an AI-powered document assistant that enables users to upload PDF files and interact with them through natural language conversations. The application leverages Retrieval-Augmented Generation (RAG) to retrieve relevant document chunks from a persistent ChromaDB vector database and combines them with OpenAI language models to generate accurate, context-aware responses.
+AI-powered document assistant that enables users to upload PDF files and interact with them through natural language conversations. The application leverages Retrieval-Augmented Generation (RAG) to retrieve relevant document chunks from a persistent ChromaDB vector database and combines them with OpenAI language models to generate accurate, context-aware responses.
 
 Features:
 
